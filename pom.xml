@@ -4,7 +4,7 @@
   <artifactId>ozone-config</artifactId>
   <name>Ozone Configuration</name>
   <description>Configuration files needed for Ozone HIS</description>
-  <version>1.4.1</version>
+  <version>1.5.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <organization>
@@ -24,7 +24,7 @@
     <distro.eipRoutesDir>${distro.baseDir}/eip_config</distro.eipRoutesDir>
     <!-- EIP routes -->
     <eipRoutesSenaite>1.1.0</eipRoutesSenaite>
-    <eipRoutesOdoo>1.2.1</eipRoutesOdoo>
+    <eipRoutesOdoo>1.3.0-SNAPSHOT</eipRoutesOdoo>
   </properties>
 
   <dependencies>
